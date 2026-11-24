@@ -15,5 +15,5 @@
 
 ## Next steps
 
-- Check GitHub Actions CI result after the first push. Future options:
+- First GitHub Actions build passed. Future options:
 - Future options: v1 API adapter, pagination for broad searches, more explicit note creation options, distribution releases.
